@@ -1,5 +1,5 @@
 workspace {
-    name "Ozon E-commerce Application"
+    name "Ozon"
     description "Архитектура приложения Ozon для управления пользователями, товарами и корзинами"
 
     !identifiers hierarchical
